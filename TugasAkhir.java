@@ -7,6 +7,7 @@ public class TugasAkhir {
     public static void main(String[] args) {
     
     int i,j,m;
+     //-------------------------
         
         //----------------------
         for (i = 0; i < 5; i++){
@@ -43,9 +44,10 @@ public class TugasAkhir {
                     System.out.print("  ");
                 }
             } 
-            System.out.println();            
+            System.out.println(); 
+       //------------------------
         }
-    
+     //-----------------------
     }
          
 }
